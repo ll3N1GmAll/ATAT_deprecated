@@ -1,5 +1,6 @@
 # ATAT
 Attack Team Automation Tool for automating penetration testing operations. Based on ezsploit by rand0m1ze. Durandal backdoor builder created by Travis Weathers (Skysploit).
+YOU MUST RENAME THE FOLDER FROM 'ATAT_deprecated' TO 'ATAT' FOR THE PROGRAM TO WORK (This is a requirement because github cannot have 2 repos with the same name)
 v1.6.3 - This version is for older systems compatible with the deprecated MingW32 compiler ONLY
 Added support for Apache Struts/Tomcat/Etc. exploits,
 Added support for Java JMX exploitation,
